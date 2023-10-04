@@ -6,7 +6,7 @@ import requests
 from streamlit_lottie import st_lottie
 
 # Set the page title and favicon
-st.set_page_config(page_title="StockMate", page_icon="📦")
+
 
 # Define a CSS style for better layout and spacing
 st.markdown(
